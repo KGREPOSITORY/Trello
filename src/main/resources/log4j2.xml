@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="warn">
+    <!-- Секция аппендеров -->
+    <Appenders>
+        <!-- Файловый аппендер -->
+        <RollingFile name="file"
+                     fileName="src\test\java\logs\Log.log"
+                      filePattern = "src\test\java\logs\Log%i.log"
+                     ignoreExceptions="false">
+            <PatternLayout>
+                <Pattern>%d %class ===> %p [%t] %m %ex%n</Pattern>
+            </PatternLayout>
+            <Policies>
+                <SizeBasedTriggeringPolicy size="10MB" />
+            </Policies>
+            <DefaultRolloverStrategy max="5" />
+        </RollingFile>
+        <!--Console appender-->
+        <Console name="STDOUT"
+                 target="SYSTEM_OUT"
+                 ignoreExceptions="false">
+                <PatternLayout pattern="%class %d %p [%t] %m %ex%n"/>
+        </Console>
+    </Appenders>
+    <!-- Секция логгеров -->
+    <Loggers>
+        <!-- Корневой логгер -->
+        <Root level="INFO">
+            <AppenderRef ref="file"/>
+            <AppenderRef ref="STDOUT"/>
+        </Root>
+    </Loggers>
+</Configuration>

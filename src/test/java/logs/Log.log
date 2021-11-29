@@ -1,0 +1,279 @@
+2021-11-09 11:49:32,469 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-09 11:49:35,768 tests.APITests.boardTests.GetBoardInformationTest ===> INFO [TestNG-test=Board-1] ========Start Get Board Information Test =========
+2021-11-09 11:49:35,768 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=Board-2] ========Start Create Board Test=========
+2021-11-09 11:49:35,769 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=Board-2] Create new board
+2021-11-09 11:49:37,019 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=Board-2] Get board id from response
+2021-11-09 11:49:37,447 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=Board-2] Delete board
+2021-11-09 11:49:38,063 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=Board-2] Assert that created board was deleted
+2021-11-09 11:49:38,357 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=Board-2] ========Start Create Board Test=========
+2021-11-09 11:49:38,358 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=Board-2] Create new board
+2021-11-09 11:49:38,743 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=Board-2] Get board id from response
+2021-11-09 11:49:38,759 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=Board-2] Delete board
+2021-11-09 11:49:39,388 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=Board-2] Assert that created board was deleted
+2021-11-09 11:49:39,638 tests.BaseTest ===> INFO [main] Close browser 
+2021-11-09 11:57:54,345 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-09 11:57:57,508 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=Board-2] ========Start Create Board Test=========
+2021-11-09 11:57:57,508 tests.APITests.boardTests.GetBoardInformationTest ===> INFO [TestNG-test=Board-1] ========Start Get Board Information Test =========
+2021-11-09 11:57:57,509 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=Board-2] Create new board
+2021-11-09 11:57:58,722 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=Board-2] Get board id from response
+2021-11-09 11:57:59,217 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=Board-2] Delete board
+2021-11-09 11:57:59,920 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=Board-2] Assert that created board was deleted
+2021-11-09 11:58:00,450 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=Board-2] ========Start Create Board Test=========
+2021-11-09 11:58:00,450 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=Board-2] Create new board
+2021-11-09 11:58:00,833 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=Board-2] Get board id from response
+2021-11-09 11:58:00,844 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=Board-2] Delete board
+2021-11-09 11:58:01,437 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=Board-2] Assert that created board was deleted
+2021-11-09 11:58:02,000 tests.BaseTest ===> INFO [main] Close browser 
+2021-11-09 15:11:27,308 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-09 15:11:30,492 tests.BaseTest ===> INFO [main] Close browser 
+2021-11-09 15:20:08,904 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-09 15:20:12,101 tests.BaseTest ===> INFO [main] Close browser 
+2021-11-09 15:20:52,750 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-09 15:20:55,886 tests.BaseTest ===> INFO [main] Close browser 
+2021-11-09 15:27:21,057 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-09 15:27:24,359 tests.BaseTest ===> INFO [main] Close browser 
+2021-11-09 15:31:22,055 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-09 15:31:25,388 tests.BaseTest ===> INFO [main] Close browser 
+2021-11-09 15:41:47,579 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-09 15:41:50,694 tests.BaseTest ===> INFO [main] Close browser 
+2021-11-09 15:47:33,864 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-09 15:47:39,950 tests.BaseTest ===> INFO [main] Close browser 
+2021-11-09 15:49:22,036 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-09 15:49:27,904 tests.BaseTest ===> INFO [main] Close browser 
+2021-11-09 16:01:43,671 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-09 16:01:46,793 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=Board-3] ========Start Create Board Test=========
+2021-11-09 16:01:46,793 tests.APITests.boardTests.GetBoardInformationTest ===> INFO [TestNG-test=Board-2] ========Start Get Board Information Test =========
+2021-11-09 16:01:46,794 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=Board-3] Create new board
+2021-11-09 16:01:48,005 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=Board-3] Get board id from response
+2021-11-09 16:01:48,482 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=Board-3] Delete board
+2021-11-09 16:01:49,054 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=Board-3] Assert that created board was deleted
+2021-11-09 16:01:49,316 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=Board-3] ========Start Create Board Test=========
+2021-11-09 16:01:49,316 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=Board-3] Create new board
+2021-11-09 16:01:49,708 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=Board-3] Get board id from response
+2021-11-09 16:01:49,719 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=Board-3] Delete board
+2021-11-09 16:01:50,367 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=Board-3] Assert that created board was deleted
+2021-11-09 16:01:50,608 tests.BaseTest ===> INFO [main] Close browser 
+2021-11-09 16:06:26,953 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-09 16:06:32,312 tests.BaseTest ===> INFO [main] Close browser 
+2021-11-09 16:13:16,871 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-09 16:13:22,032 tests.BaseTest ===> INFO [main] Close browser 
+2021-11-09 16:14:15,495 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-09 16:14:20,308 tests.BaseTest ===> INFO [main] Close browser 
+2021-11-09 16:15:12,334 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-09 16:15:20,831 tests.BaseTest ===> INFO [main] Close browser 
+2021-11-09 16:15:38,415 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-09 16:16:13,675 tests.BaseTest ===> INFO [main] Close browser 
+2021-11-09 16:16:50,511 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-09 16:17:26,406 tests.BaseTest ===> INFO [main] Close browser 
+2021-11-09 16:20:15,624 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-09 16:20:18,971 tests.BaseTest ===> INFO [main] Close browser 
+2021-11-09 16:22:08,143 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-09 16:22:12,092 tests.BaseTest ===> INFO [main] Close browser 
+2021-11-09 16:24:52,213 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-09 16:24:56,219 tests.BaseTest ===> INFO [main] Close browser 
+2021-11-09 16:27:40,910 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-09 16:27:46,560 tests.BaseTest ===> INFO [main] Close browser 
+2021-11-09 16:28:26,474 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-09 16:28:32,201 tests.BaseTest ===> INFO [main] Close browser 
+2021-11-09 16:30:41,625 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-09 16:30:47,274 tests.BaseTest ===> INFO [main] Close browser 
+2021-11-09 16:32:04,097 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-09 16:32:09,482 tests.BaseTest ===> INFO [main] Close browser 
+2021-11-09 16:34:08,671 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-09 16:34:13,693 tests.BaseTest ===> INFO [main] Close browser 
+2021-11-09 16:35:45,424 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-09 16:35:50,558 tests.BaseTest ===> INFO [main] Close browser 
+2021-11-09 16:40:11,434 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-09 16:40:16,686 tests.BaseTest ===> INFO [main] Close browser 
+2021-11-09 16:41:13,402 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-09 16:41:18,959 tests.BaseTest ===> INFO [main] Close browser 
+2021-11-09 16:42:38,249 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-09 16:42:44,065 tests.BaseTest ===> INFO [main] Close browser 
+2021-11-09 16:44:21,599 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-09 16:44:26,878 tests.BaseTest ===> INFO [main] Close browser 
+2021-11-09 17:07:44,175 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-09 17:07:50,344 tests.BaseTest ===> INFO [main] Close browser 
+2021-11-09 17:33:43,427 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-09 17:33:49,120 tests.BaseTest ===> INFO [main] Close browser 
+2021-11-09 17:40:27,080 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-09 17:40:33,032 tests.BaseTest ===> INFO [main] Close browser 
+2021-11-09 17:45:12,831 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-09 17:45:19,069 tests.BaseTest ===> INFO [main] Close browser 
+2021-11-09 17:49:20,958 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-09 17:49:27,354 tests.BaseTest ===> INFO [main] Close browser 
+2021-11-09 17:51:29,288 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-09 17:51:35,526 tests.BaseTest ===> INFO [main] Close browser 
+2021-11-09 17:55:50,993 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-09 17:55:54,405 tests.APITests.boardTests.listTests.CreateAndDeleteListTest ===> INFO [TestNG-test=Board-1] Create new board for list test
+2021-11-09 17:55:56,316 tests.APITests.boardTests.listTests.CreateAndDeleteListTest ===> INFO [TestNG-test=Board-1] Create new list
+2021-11-09 17:55:56,777 tests.APITests.boardTests.listTests.CreateAndDeleteListTest ===> INFO [TestNG-test=Board-1] Assert that new list was created correctly
+2021-11-09 17:55:56,778 tests.APITests.boardTests.listTests.CreateAndDeleteListTest ===> INFO [TestNG-test=Board-1] Archive list
+2021-11-09 17:55:57,133 tests.APITests.boardTests.listTests.CreateAndDeleteListTest ===> INFO [TestNG-test=Board-1] Assert that new list is archived
+2021-11-09 17:55:57,407 tests.APITests.boardTests.listTests.CreateAndDeleteListTest ===> INFO [TestNG-test=Board-1] Delete tested board
+2021-11-09 17:55:57,963 tests.BaseTest ===> INFO [main] Close browser 
+2021-11-09 17:59:30,402 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-09 17:59:33,853 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] ========Start Create Board Test=========
+2021-11-09 17:59:33,853 tests.APITests.boardTests.GetBoardInformationTest ===> INFO [TestNG-test=BoardTests-2] ========Start Get Board Information Test =========
+2021-11-09 17:59:33,854 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] Create new board
+2021-11-09 17:59:35,328 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] Get board id from response
+2021-11-09 17:59:35,885 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] Delete board
+2021-11-09 17:59:36,670 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] Assert that created board was deleted
+2021-11-09 17:59:37,085 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] ========Start Create Board Test=========
+2021-11-09 17:59:37,085 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] Create new board
+2021-11-09 17:59:37,515 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] Get board id from response
+2021-11-09 17:59:37,526 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] Delete board
+2021-11-09 17:59:38,118 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] Assert that created board was deleted
+2021-11-09 17:59:38,656 tests.BaseTest ===> INFO [main] Close browser 
+2021-11-09 17:59:42,843 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-09 18:02:47,784 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-09 18:02:52,153 tests.APITests.boardTests.GetBoardInformationTest ===> INFO [TestNG-test=BoardTests-2] ========Start Get Board Information Test =========
+2021-11-09 18:02:52,153 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] ========Start Create Board Test=========
+2021-11-09 18:02:52,154 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] Create new board
+2021-11-09 18:02:54,058 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] Get board id from response
+2021-11-09 18:02:54,755 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] Delete board
+2021-11-09 18:02:55,379 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] Assert that created board was deleted
+2021-11-09 18:02:55,695 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] ========Start Create Board Test=========
+2021-11-09 18:02:55,695 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] Create new board
+2021-11-09 18:02:56,118 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] Get board id from response
+2021-11-09 18:02:56,136 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] Delete board
+2021-11-09 18:02:56,844 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] Assert that created board was deleted
+2021-11-09 18:02:57,197 tests.BaseTest ===> INFO [main] Close browser 
+2021-11-09 18:02:57,575 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-09 18:07:18,273 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-09 18:07:22,174 tests.APITests.boardTests.GetBoardInformationTest ===> INFO [TestNG-test=BoardTests-2] ========Start Get Board Information Test =========
+2021-11-09 18:07:22,175 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] ========Start Create Board Test=========
+2021-11-09 18:07:22,178 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] Create new board
+2021-11-09 18:07:23,664 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] Get board id from response
+2021-11-09 18:07:24,286 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] Delete board
+2021-11-09 18:07:24,971 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] Assert that created board was deleted
+2021-11-09 18:07:25,258 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] ========Start Create Board Test=========
+2021-11-09 18:07:25,258 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] Create new board
+2021-11-09 18:07:25,675 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] Get board id from response
+2021-11-09 18:07:25,690 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] Delete board
+2021-11-09 18:07:26,380 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] Assert that created board was deleted
+2021-11-09 18:07:26,624 tests.BaseTest ===> INFO [main] Close browser 
+2021-11-09 18:07:27,332 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-09 18:10:04,982 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-09 18:10:09,028 tests.APITests.boardTests.GetBoardInformationTest ===> INFO [TestNG-test=BoardTests-2] ========Start Get Board Information Test =========
+2021-11-09 18:10:09,028 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] ========Start Create Board Test=========
+2021-11-09 18:10:09,029 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] Create new board
+2021-11-09 18:10:10,533 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] Get board id from response
+2021-11-09 18:10:11,171 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] Delete board
+2021-11-09 18:10:11,812 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] Assert that created board was deleted
+2021-11-09 18:10:12,118 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] ========Start Create Board Test=========
+2021-11-09 18:10:12,118 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] Create new board
+2021-11-09 18:10:12,520 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] Get board id from response
+2021-11-09 18:10:12,534 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] Delete board
+2021-11-09 18:10:13,399 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] Assert that created board was deleted
+2021-11-09 18:10:13,745 tests.BaseTest ===> INFO [main] Close browser 
+2021-11-09 18:10:14,444 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-09 18:12:02,350 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-09 18:12:06,276 tests.APITests.boardTests.GetBoardInformationTest ===> INFO [TestNG-test=BoardTests-2] ========Start Get Board Information Test =========
+2021-11-09 18:12:06,276 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] ========Start Create Board Test=========
+2021-11-09 18:12:06,277 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] Create new board
+2021-11-09 18:12:07,655 tests.BaseTest ===> INFO [TestNG-test=BoardTests-2] Close browser 
+2021-11-09 18:12:07,673 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] Get board id from response
+2021-11-09 18:12:08,376 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] Delete board
+2021-11-09 18:12:09,159 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] Assert that created board was deleted
+2021-11-09 18:12:09,399 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] ========Start Create Board Test=========
+2021-11-09 18:12:09,399 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] Create new board
+2021-11-09 18:12:10,030 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] Get board id from response
+2021-11-09 18:12:10,040 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] Delete board
+2021-11-09 18:12:10,678 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] Assert that created board was deleted
+2021-11-09 18:12:10,955 tests.BaseTest ===> INFO [TestNG-test=BoardTests-1] Close browser 
+2021-11-09 18:12:10,979 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-09 18:12:53,471 tests.BaseTest ===> INFO [TestNG-test=BoardTests-1] Prepare driver 
+2021-11-09 18:12:53,471 tests.BaseTest ===> INFO [TestNG-test=BoardTests-2] Prepare driver 
+2021-11-09 18:12:57,243 tests.APITests.boardTests.GetBoardInformationTest ===> INFO [TestNG-test=BoardTests-2] ========Start Get Board Information Test =========
+2021-11-09 18:12:57,923 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] ========Start Create Board Test=========
+2021-11-09 18:12:57,924 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] Create new board
+2021-11-09 18:12:58,538 tests.BaseTest ===> INFO [TestNG-test=BoardTests-2] Close browser 
+2021-11-09 18:12:58,894 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] Get board id from response
+2021-11-09 18:12:59,469 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] Delete board
+2021-11-09 18:13:00,384 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] Assert that created board was deleted
+2021-11-09 18:13:00,718 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] ========Start Create Board Test=========
+2021-11-09 18:13:00,718 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] Create new board
+2021-11-09 18:13:01,089 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] Get board id from response
+2021-11-09 18:13:01,102 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] Delete board
+2021-11-09 18:13:01,753 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] Assert that created board was deleted
+2021-11-09 18:13:02,001 tests.BaseTest ===> INFO [TestNG-test=BoardTests-1] Close browser 
+2021-11-09 18:13:02,028 tests.BaseTest ===> INFO [TestNG-test=ListTests-1] Prepare driver 
+2021-11-09 18:14:56,259 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-09 18:15:00,285 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] ========Start Create Board Test=========
+2021-11-09 18:15:00,285 tests.APITests.boardTests.GetBoardInformationTest ===> INFO [TestNG-test=BoardTests-2] ========Start Get Board Information Test =========
+2021-11-09 18:15:00,286 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] Create new board
+2021-11-09 18:15:01,874 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] Get board id from response
+2021-11-09 18:15:02,537 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] Delete board
+2021-11-09 18:15:03,174 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] Assert that created board was deleted
+2021-11-09 18:15:03,601 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] ========Start Create Board Test=========
+2021-11-09 18:15:03,601 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] Create new board
+2021-11-09 18:15:03,991 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] Get board id from response
+2021-11-09 18:15:04,005 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] Delete board
+2021-11-09 18:15:04,542 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] Assert that created board was deleted
+2021-11-09 18:15:04,963 tests.APITests.boardTests.listTests.CreateAndDeleteListTest ===> INFO [TestNG-test=ListTests-1] Create new board for list test
+2021-11-09 18:15:05,455 tests.APITests.boardTests.listTests.CreateAndDeleteListTest ===> INFO [TestNG-test=ListTests-1] Create new list
+2021-11-09 18:15:05,813 tests.APITests.boardTests.listTests.CreateAndDeleteListTest ===> INFO [TestNG-test=ListTests-1] Assert that new list was created correctly
+2021-11-09 18:15:05,813 tests.APITests.boardTests.listTests.CreateAndDeleteListTest ===> INFO [TestNG-test=ListTests-1] Archive list
+2021-11-09 18:15:06,138 tests.APITests.boardTests.listTests.CreateAndDeleteListTest ===> INFO [TestNG-test=ListTests-1] Assert that new list is archived
+2021-11-09 18:15:06,420 tests.APITests.boardTests.listTests.CreateAndDeleteListTest ===> INFO [TestNG-test=ListTests-1] Delete tested board
+2021-11-09 18:15:07,105 tests.BaseTest ===> INFO [main] Close browser 
+2021-11-22 15:14:56,047 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-22 15:15:01,126 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] ========Start Create Board Test=========
+2021-11-22 15:15:01,126 tests.APITests.boardTests.GetBoardInformationTest ===> INFO [TestNG-test=BoardTests-2] ========Start Get Board Information Test =========
+2021-11-22 15:15:01,127 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] Create new board
+2021-11-22 15:15:02,266 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] Get board id from response
+2021-11-22 15:15:02,829 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] Delete board
+2021-11-22 15:15:03,517 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] Assert that created board was deleted
+2021-11-22 15:15:03,822 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] ========Start Create Board Test=========
+2021-11-22 15:15:03,822 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] Create new board
+2021-11-22 15:15:04,217 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] Get board id from response
+2021-11-22 15:15:04,228 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] Delete board
+2021-11-22 15:15:04,807 tests.APITests.boardTests.CreateAndDeleteBoardTest ===> INFO [TestNG-test=BoardTests-1] Assert that created board was deleted
+2021-11-22 15:15:05,107 tests.APITests.boardTests.listTests.CreateAndDeleteListTest ===> INFO [TestNG-test=ListTests-1] Create new board for list test
+2021-11-22 15:15:05,867 tests.APITests.boardTests.listTests.CreateAndDeleteListTest ===> INFO [TestNG-test=ListTests-1] Create new list
+2021-11-22 15:15:06,227 tests.APITests.boardTests.listTests.CreateAndDeleteListTest ===> INFO [TestNG-test=ListTests-1] Assert that new list was created correctly
+2021-11-22 15:15:06,227 tests.APITests.boardTests.listTests.CreateAndDeleteListTest ===> INFO [TestNG-test=ListTests-1] Archive list
+2021-11-22 15:15:06,539 tests.APITests.boardTests.listTests.CreateAndDeleteListTest ===> INFO [TestNG-test=ListTests-1] Assert that new list is archived
+2021-11-22 15:15:06,846 tests.APITests.boardTests.listTests.CreateAndDeleteListTest ===> INFO [TestNG-test=ListTests-1] Delete tested board
+2021-11-22 15:15:07,463 tests.BaseTest ===> INFO [main] Close browser 
+2021-11-26 16:35:11,210 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-26 16:36:02,344 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-26 16:36:07,516 tests.BaseTest ===> INFO [main] Close browser 
+2021-11-26 16:38:15,216 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-26 16:38:20,422 tests.BaseTest ===> INFO [main] Close browser 
+2021-11-26 17:00:19,442 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-26 17:00:24,565 tests.BaseTest ===> INFO [main] Close browser 
+2021-11-26 17:01:04,045 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-26 17:01:08,960 tests.BaseTest ===> INFO [main] Close browser 
+2021-11-26 17:13:29,862 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-26 17:13:34,752 tests.BaseTest ===> INFO [main] Close browser 
+2021-11-26 17:16:07,159 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-26 17:16:20,070 tests.BaseTest ===> INFO [main] Close browser 
+2021-11-26 17:16:34,249 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-26 17:17:10,397 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-26 17:17:16,703 tests.BaseTest ===> INFO [main] Close browser 
+2021-11-26 17:18:10,092 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-26 17:18:51,821 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-26 17:19:53,547 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-26 17:21:29,058 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-26 17:21:35,193 tests.BaseTest ===> INFO [main] Close browser 
+2021-11-26 17:21:44,986 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-26 17:23:25,103 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-26 17:28:39,496 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-26 17:30:04,322 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-26 17:31:35,309 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-26 17:31:39,776 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-29 11:07:35,256 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-29 11:07:42,045 tests.BaseTest ===> INFO [main] Close browser 
+2021-11-29 11:13:42,135 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-29 11:14:00,282 tests.BaseTest ===> INFO [main] Close browser 
+2021-11-29 11:40:20,286 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-29 11:40:25,115 tests.BaseTest ===> INFO [main] Close browser 
+2021-11-29 11:41:29,720 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-29 11:41:34,547 tests.BaseTest ===> INFO [main] Close browser 
+2021-11-29 11:53:09,768 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-29 11:53:16,486 tests.BaseTest ===> INFO [main] Close browser 
+2021-11-29 12:02:33,100 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-29 12:03:08,085 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-29 12:11:14,702 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-29 12:11:23,365 tests.BaseTest ===> INFO [main] Close browser 
