@@ -5,6 +5,8 @@ import frame.elements.ElementFactory;
 import frame.elements.TextField;
 import org.openqa.selenium.By;
 
+
+@PageInfo("//body[contains(@data-app-state,'atlassian')]")
 public class AtlassianLoginPage extends BasePage {
     private Button btnLogin = ElementFactory.getElementFactory().getButon(By.xpath("//button[contains(@id,'login')]"));
     private final TextField txtPassword = ElementFactory.getElementFactory().getTextField(By.xpath("//input[@id='password']"));

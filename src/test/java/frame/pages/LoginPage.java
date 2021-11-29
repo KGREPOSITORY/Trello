@@ -5,6 +5,8 @@ import frame.elements.ElementFactory;
 import frame.elements.TextField;
 import org.openqa.selenium.By;
 
+
+@PageInfo("//body[@data-analytics-screen='loginChoiceScreen']")
 public class LoginPage extends BasePage {
 
     private final TextField txtLogin = ElementFactory.getElementFactory().getTextField(By.xpath("//input[@id='user']"));

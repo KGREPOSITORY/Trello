@@ -277,3 +277,18 @@
 2021-11-29 12:03:08,085 tests.BaseTest ===> INFO [main] Prepare driver 
 2021-11-29 12:11:14,702 tests.BaseTest ===> INFO [main] Prepare driver 
 2021-11-29 12:11:23,365 tests.BaseTest ===> INFO [main] Close browser 
+2021-11-29 16:21:06,332 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-29 16:21:35,462 tests.BaseTest ===> INFO [main] Close browser 
+2021-11-29 16:23:27,299 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-29 16:23:35,952 tests.BaseTest ===> INFO [main] Close browser 
+2021-11-29 16:24:45,049 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-29 16:24:54,624 tests.BaseTest ===> INFO [main] Close browser 
+2021-11-29 16:29:03,281 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-29 16:30:12,441 tests.BaseTest ===> INFO [main] Close browser 
+2021-11-29 16:32:45,359 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-29 16:33:50,552 tests.BaseTest ===> INFO [main] Close browser 
+2021-11-29 17:21:30,885 tests.BaseTest ===> INFO [main] Prepare driver 
+2021-11-29 17:21:35,738 frame.pages.BasePage ===> INFO [TestNG-test=BoardTests-1] Check that BasePage page is opened 
+2021-11-29 17:21:36,926 frame.pages.BasePage ===> INFO [TestNG-test=BoardTests-1] Check that LoginPage page is opened 
+2021-11-29 17:21:37,162 frame.pages.BasePage ===> INFO [TestNG-test=BoardTests-1] Check that AtlassianLoginPage page is opened 
+2021-11-29 17:21:39,972 tests.BaseTest ===> INFO [main] Close browser 
